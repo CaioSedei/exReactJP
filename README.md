@@ -19,3 +19,5 @@ npm i == npm install
 npm run dev
 
 local: localhost:5173
+
+tirar impostaçoes iniciais do file app.jsx

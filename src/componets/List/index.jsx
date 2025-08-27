@@ -1,8 +1,8 @@
 import './style.css'
 
-function List({titulo, }) {
+function List({titulo }) {
     return (<section>
-        <h2 id="exemplo-get">{titulo}</h2>
+        <h2 id="exemplo-get">{ titulo ? titulo : 'batata' }</h2>
 
         <h3>Lista não ordenada</h3>
         <ul>
