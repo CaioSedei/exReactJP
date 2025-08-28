@@ -21,3 +21,11 @@ npm run dev
 local: localhost:5173
 
 tirar impostaçoes iniciais do file app.jsx
+
+
+
+
+
+install o react-router-dom
+
+npm i react-router-dom
